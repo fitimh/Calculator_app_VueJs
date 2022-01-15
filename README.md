@@ -1,4 +1,4 @@
-# calcucator-vue
+# calculator-vue
 
 ## Project setup
 ```
