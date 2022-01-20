@@ -10,7 +10,7 @@ https://calculator-app-vue.vercel.app/
 
 ```
 * Project is Calculator online with Operator Arichmetic
-* Calculated finnaca, number etc
+* Calculated finnanca , number etc
 
 ```
 
